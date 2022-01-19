@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mkanasani
+- 👋 Hi, I’m Mani!
 - 👀 I’m interested in DeFi, Web3 & GameFi..
 - 🌱 I’m currently learning Enjin & Unity..
 - 💞️ I’m looking to collaborate on DeFi Dapps..
